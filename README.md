@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vuong Huynh, from KMS Technology Vietnam
+- 👋 Hi, I’m Vuong Huynh. I'm a Software Engineer from KMS Technology Vietnam
 - 📫 You can reach to me via Skype at live:.cid.9681b39fee0ee17f
 
 <!---
